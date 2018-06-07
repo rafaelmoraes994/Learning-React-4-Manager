@@ -1,0 +1,5 @@
+export const emailChanged = 'emailChanged'
+export const passwordChanged = 'passwordChanged'
+export const loginUserSucess = 'loginUserSucess'
+export const loginUserFailed = 'loginUserFailed'
+export const loginUser = 'loginUser'
